@@ -6,7 +6,7 @@ Here you can file any issue related to the [Auth0 Webtask](https://webtask.io) t
 
 Please note we also have additional open-source components: 
 
-* [auth0/sandboxjs](https://https://github.com/auth0/sandboxjs) - Node.js SDK
+* [auth0/sandboxjs](https://github.com/auth0/sandboxjs) - Node.js SDK
 * [auth0/wt-cli](https://github.com/auth0/wt-cli) - Webtask Command Line Tool
 
 # Slack
